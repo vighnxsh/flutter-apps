@@ -16,12 +16,12 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 
 
 ## Installation
-After cloning this repository, migrate to ```instagram-flutter-clone``` folder. Then, follow the following steps:
+After cloning this repository, migrate to ```instagram-clone``` folder. Then, follow the following steps:
 - Create Firebase Project
 - Enable Authentication
 - Make Firestore Rules
 - Create Android, iOS & Web Apps
-- Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work as I deleted my project)
+- Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work )
 Then run the following commands to run your app:
 ```bash
   flutter pub get
